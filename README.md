@@ -1,5 +1,8 @@
 # Finite-State-Machines-
-Finite State Machine in Verilog Iplementation
+Finite State Machine in Verilog Implementation at
+****
+http://www.hellocodings.com/2017/04/finite-state-machine.html#Here is the question
+****
 
 
 Q. The code is for the following question.
