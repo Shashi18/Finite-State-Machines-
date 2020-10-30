@@ -1,7 +1,7 @@
 # Finite-State-Machines-
 Finite State Machine in Verilog Implementation at
 ****
-http://www.hellocodings.com/2017/04/finite-state-machine.html#Here is the question
+http://www.shashisuman.com/2017/04/finite-state-machine.html#Here is the question
 ****
 
 
